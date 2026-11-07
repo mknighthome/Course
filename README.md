@@ -1,9 +1,8 @@
-Project: My first Readme!
+Project: Simple calculator app
 
 Files:
-File 1
-File 2
-File 3
+- main.py - entry point for calculator examples
+- utils/calculator.py - arithmetic helpers
 
 Support:
 Contact mat!
